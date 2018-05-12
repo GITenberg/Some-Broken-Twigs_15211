@@ -1,0 +1,25 @@
+_repo: Some-Broken-Twigs_15211
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15211-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Beede, Clara Frances McKee
+    alias: Beede, Clara M.
+    gutenberg_agent_id: '5916'
+    url: http://www.gutenberg.org/2009/agents/5916
+description: ''
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: Some Broken Twigs
+url: http://www.gutenberg.org/ebooks/15211
